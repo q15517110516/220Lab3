@@ -19,6 +19,7 @@ AVL tree that accepts a Data class as its type (it is a template class). The Dat
 DoubleData defines a method to compare to other DoubleData objects, which you
 should use when comparing those objects. AVLTree is a template class, so all the code is
 going in the header file again.
+
 We have provided many tests in the main function, but you can add tests if you are
 unsure of any functionality (try to find some untested cases). Writing test cases is very
 useful when writing any kind of code, and the easiest way to show that your code
